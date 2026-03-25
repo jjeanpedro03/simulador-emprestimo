@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jjeanpedro03.github.io/loansim/" target="_blank">
+  <a href="https://jjeanpedro03.github.io/simulador-emprestimo/" target="_blank">
     <img src="https://img.shields.io/badge/💰🚀%20Visualizar%20Projeto-22c55e?style=for-the-badge&logo=javascript&logoColor=white" alt="Visualizar Projeto">
   </a>
 </p>
@@ -105,7 +105,7 @@ simulador-emprestimo/
 
 ```
 # Clonar o repositório
-git clone https://github.com/jjeanpedro03/loansim.git
+git clone [https://github.com/jjeanpedro03/loansim.git](https://github.com/jjeanpedro03/simulador-emprestimo)
 
 # Acessar a pasta
 cd loansim
