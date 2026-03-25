@@ -100,15 +100,3 @@ simulador-emprestimo/
 │   └── apresentacao.gif
 └── index.html
 ```
-
-## 🚀 Como Executar
-
-```
-# Clonar o repositório
-git clone [https://github.com/jjeanpedro03/loansim.git](https://github.com/jjeanpedro03/simulador-emprestimo)
-
-# Acessar a pasta
-cd loansim
-
-# Abrir no navegador
-index.html
