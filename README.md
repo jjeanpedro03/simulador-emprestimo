@@ -1,4 +1,4 @@
-<h1 align="center">💰 LoanSim — Simulador de Empréstimos com Juros Compostos</h1>
+<h1 align="center">💰 Simulador de Empréstimos com Juros Compostos</h1>
 
 <p align="center">
   O <strong>LoanSim</strong> é uma aplicação web interativa para simulação de empréstimos, desenvolvida com foco em experiência do usuário, validação de dados e precisão nos cálculos financeiros.
